@@ -36,7 +36,7 @@ A simple **console-based Student Management System** in Python that allows you t
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/vidyajha13/Student-Management-System.git
 cd student-management-system
 python  main.py
 === Student Management System ===
